@@ -27,7 +27,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.8.1",
     "@ng-bootstrap/ng-bootstrap": "^4.1.1",
     "@types/file-saver": "^2.0.0",
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "angular-alert-module": "^2.0.3",
     "angular-bootstrap-calendar": "^1.0.0",
     "angular-bootstrap-md": "^7.4.4",
